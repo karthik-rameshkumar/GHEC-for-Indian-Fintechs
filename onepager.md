@@ -33,7 +33,7 @@ The **RBI Master Directions on IT Governance (2023)** require Financial Institut
 ✅ **40% reduction in security vulnerabilities** through automated code scanning and monitoring (Source: GitHub Security Labs, 2023).  
 ✅ **Lower costs** from reducing tool sprawl and manual security reviews.  
 
-### **Where should Financial Institutions host their source code?**
+### **How can GitHub Help?**
 🔹 **Hybrid Model: GitHub Enterprise Cloud + GitHub Enterprise Server**
 ✔ **Enterprise Cloud** – AI-powered security, automation, scalability.
 ✔ **Enterprise Server** – On-prem compliance, data sovereignty.
